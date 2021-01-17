@@ -1,16 +1,18 @@
 ### Hi there, I am Juan Esteban Cifuentes
 I'm a young growing developer focusing in learning Web development, Linux & Full-Stack!
-- 🌱 I’m currently learning `Javascript` `Nodejs` `Css` `React` and more...
+- 🌱 I’m currently learning `Javascript`, `Nodejs`, `Css`, `React` and more...
 - ⚡ Fun fact: I love :book: | :video_game: | :computer: | :coffee:
-
+- Learning English & French!
 ### Connect with me:
-<p id="socialIcons" align="center">
-    <a href="https://www.linkedin.com/in/juan-esteban-cifuentes-0bb76a198/" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-</p>
 
-[linkedin]: https://www.linkedin.com/in/juan-esteban-cifuentes-0bb76a198/
-[github]: https://github.com/JuanEstebanCC
+
+<p align="center">
+<br>
+<a href="https://www.facebook.com/juanestebancifuentesl"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/juan-esteban-cifuentes-0bb76a198//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:juanescifuentes75@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+
+</p>
 
 <!--
 **JuanEstebanCC/JuanEstebanCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
