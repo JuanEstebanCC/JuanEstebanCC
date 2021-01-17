@@ -1,4 +1,14 @@
-### Hi there, I am Juan Esteban Cifuentes
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+<p>
+  <h1 align="center"><b>Hello there, I'm Juan Esteban Cifuentes 👋</b></h1>
+</p>
+
+<p>
+  <h4 align="center"><b>"Just let me code"</b></h4>
+</p>
+
+<br>
+
 I'm a young growing developer focusing in learning Web development, Linux & Full-Stack!
 - 🌱 I’m currently learning `Javascript`, `Nodejs`, `Css`, `React` and more...
 - ⚡ Fun fact: I love :book: | :video_game: | :computer: | :coffee:
