@@ -4,8 +4,6 @@ I'm a young growing developer focusing in learning Web development, Linux & Full
 - ⚡ Fun fact: I love :book: | :video_game: | :computer: | :coffee:
 - Learning English & French!
 ### Connect with me:
-
-
 <p align="center">
 <br>
 <a href="https://www.facebook.com/juanestebancifuentesl"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
