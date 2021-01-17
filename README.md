@@ -1,16 +1,17 @@
 ### Hi there, I am Juan Esteban Cifuentes
-## I'am a young developer focusing in learning Web development, Linux & Full-Stack!
-
-- 🌱 I’m currently learning Javascript, Nodejs, Sass, React, and more..
--
+I'm a young growing developer focusing in learning Web development, Linux & Full-Stack!
+- 🌱 I’m currently learning `Javascript` `Nodejs` `Css` `React` and more...
+- ⚡ Fun fact: I love :book: | :video_game: | :computer: | :coffee:
 
 ### Connect with me:
+<p id="socialIcons" align="center">
+    <a href="https://www.linkedin.com/in/juan-esteban-cifuentes-0bb76a198/" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+</p>
 
-[<img align="left" alt="adi1090x | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="adi1090x | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
-[<img align="left" alt="adi1090x | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-[<img align="left" alt="adi1090x | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
-[<img align="left" alt="adi1090x | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
+[linkedin]: https://www.linkedin.com/in/juan-esteban-cifuentes-0bb76a198/
+[github]: https://github.com/JuanEstebanCC
+
 <!--
 **JuanEstebanCC/JuanEstebanCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,5 +24,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: 
+
 -->
