@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"Just let me code"</b></h4>
+  <h3 align="center"><b>"Just let me code."</b></h3>
 </p>
 
 <br>
@@ -12,7 +12,8 @@
 I'm a young growing developer focusing in learning Web development, Linux & Full-Stack!
 - 🌱 I’m currently learning `Javascript`, `Nodejs`, `Css`, `React` and more...
 - ⚡ Fun fact: I love :book: | :video_game: | :computer: | :coffee:
-- Learning English & French!
+- :speech_balloon: Learning English & French!
+- 🥅 2021 Goals: Contribute to Open Source projects
 ### Connect with me:
 <p align="center">
 <br>
