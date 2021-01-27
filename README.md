@@ -9,7 +9,7 @@
 
 <br>
 
-I'm a young developer growing  from :colombia: ,  focusing in learning Web development, Linux & Full-Stack!
+I'm a young developer growing  from :colombia: - Colombia ,  focusing in learning Web development, Linux & Full-Stack!
 - 🌱 I’m currently learning `Javascript`, `Nodejs`, `Css`, `React` and more...
 - ⚡ Fun fact: I love :book: | :video_game: | :computer: | :coffee:
 - :speech_balloon: Learning English & French!
