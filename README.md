@@ -9,7 +9,7 @@
 
 <br>
 
-I'm a young developer growing  from <img src="https://www.flaticon.com/svg/vstatic/svg/555/555617.svg?token=exp=1612579053~hmac=17749f7a73cecd6166e8fca85eb98c42" width="14"/> - Colombia ,  focusing in learning  Web development, Linux & Full-Stack!
+I'm a young developer growing  from <img src="https://www.worldometers.info/img/flags/co-flag.gif" width="14"/> - Colombia ,  focusing in learning  Web development, Linux & Full-Stack!
 - 🌱 I’m currently learning `Javascript`, `Nodejs`, `Css`, `React` and more...
 - ⚡ Fun fact: I love :book: | :video_game: | :computer: | :coffee:
 - :speech_balloon: Learning English & French!
