@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  <h3 align="center"><b>"Just let me code."</b></h3>
+  <h3 align="center"><b>"Let me code."</b></h3>
 </p>
 
 <br>
