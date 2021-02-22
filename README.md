@@ -13,7 +13,6 @@ I'm a young developer growing  from <img src="https://www.worldometers.info/img/
 - 🌱 I’m currently learning `Javascript`, `Nodejs`, `Css`, `React` and more...
 - ⚡ Fun fact: I love :book: | :video_game: | :computer: | :coffee:
 - :speech_balloon: Learning English & French!
-- 🥅 2021 Goals: Contribute to Open Source projects
 ### Connect with me:
 <p align="center">
 <br>
