@@ -14,9 +14,9 @@ I'm a young developer growing  from <img src="https://www.worldometers.info/img/
 ## :bar_chart: My Stats
 
 <p align="center">
- <img align="center" width="490px" src="https://github-readme-stats.vercel.app/api/wakatime?username=JuanEstebanCC&layout=compact">
+ <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=JuanEstebanCC&layout=compact">
 
-   <img  align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanEstebanCC&layout=compact">
+   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanEstebanCC&layout=compact">
  </ṕ>
  
 
