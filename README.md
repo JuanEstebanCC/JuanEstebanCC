@@ -6,10 +6,10 @@
 
 ## :triangular_flag_on_post: About me
 
-I'm a young developer growing  from <img src="https://www.worldometers.info/img/flags/co-flag.gif" width="14"/> - Colombia,  focusing in learning  Web development, Full-Stack & Linux! 
-- 🌱 I’m currently learning `Javascript`, `Nodejs`, `React`, `Css` and more...
+I'm a young developer growing  from <img src="https://www.worldometers.info/img/flags/co-flag.gif" width="14"/> - Colombia,  focusing in learning  Software development, Data Science & Linux! 
+- 🌱 I’m currently learning `Typescript`, `NestJS`, `Microservices` and more...
 - ⚡ Fun fact: I love :book: | :video_game: | :computer: | :coffee:
-- :speech_balloon: Learning English & French!
+- :speech_balloon: Learning English & Portuguese!
 
 ## :bar_chart: My Stats
 
